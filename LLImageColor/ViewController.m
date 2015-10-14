@@ -35,7 +35,7 @@
     imageView.image = image;
     [self.view addSubview:imageView];
     
-    _moveShowView = [[LLViewMoveShow alloc] initWithFrame:CGRectMake(0.0, 0.0, 150.0, 150.0)];
+    _moveShowView = [[LLViewMoveShow alloc] initWithFrame:CGRectMake(0.0, 0.0, 100.0, 100.0)];
     [_moveShowView setCircle];
     [imageView addSubview:_moveShowView];
     
