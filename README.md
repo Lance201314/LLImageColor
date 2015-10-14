@@ -3,7 +3,8 @@
 	llimageColor， get color from image's pixel or point
 	
 	获取UIImage上某个点的颜色，类似与取色器...
-
+	
+![image](llimagecolor.gif)
 ![image](a.png)
 ![image](b.png)
 	
